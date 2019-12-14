@@ -72,4 +72,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](pomcli/res
 
 ## Acknowledgments
 
-* Hat tip to the creators and contributors of Sci-Kit Learn, numpy, python, tqdm, numpy, and anyone else who assisted in making this project a reality. 
+* Hat tip to the creators and contributors of Sci-Kit Learn, numpy, python, tqdm, and anyone else who assisted in making this project a reality. 
