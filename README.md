@@ -1,6 +1,6 @@
 # Machine Learning Automator
 
-![diagram](mla/res/diagram.PNG)
+![diagram](mla/res/diagram.png)
 
 **Machine Learning Automator** (aka MLA)  is an open source machine learning pipeline builder useful for generating classifiers for natural language classification tasks. It enables the user to input a csv or xlsx file, specify the feature and label columns, and then automates the process of generating a classifier using the Sci-Kit Learn framework. This software was developed for my Senior Capstone at the **New Jersey Institute of Technology** and was used to generate a classifier that performed at 98% macro-F1 score (binary classification) for Pfizer's Global Clinical Supply department.
 
